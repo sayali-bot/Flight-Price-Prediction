@@ -41,8 +41,7 @@ In this project, Data Preprocessing and data cleaning is a major challenge. The 
 
 1. Clone this repo (for help see this [tutorial](https://help.github.com/articles/cloning-a-repository/)).
 2. Raw Data is being kept [https://github.com/sayali-bot/Flight-Price-Prediction/blob/main/Data_Train.xlsx] ([https://github.com/sayali-bot/Flight-Price-Prediction]) within this repo.
-3. Data processing/transformation scripts are being kept [https://github.com/sayali-bot/Flight-Price-Prediction/blob/main/Flight%20Price%20Prediction.ipynb] 4. etc...
-
+3. Data processing/transformation scripts are being kept [https://github.com/sayali-bot/Flight-Price-Prediction/blob/main/Flight%20Price%20Prediction.ipynb] 
 #### Other Members:
 
 |Name     |
